@@ -82,3 +82,34 @@ body {
   color: white;
   font-size: 3rem;
 }
+
+#projects-grid {
+  display: grid;
+  grid-template-columns: 400px 400px;
+  grid-template-rows: 400px 400px;
+  grid-gap: 30px 30px;
+}
+
+.project-title {
+  background-color: var(--color-orange);
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.project-p {
+  font-size: 1.8rem;
+  color: white;
+}
+
+.project-link {
+  color: var(--color-black3);
+  text-decoration: none;
+  font-size: 1.5rem;
+  margin-top: 120px;
+  display: block;
+}
+
+.project-link:hover {
+  color: white;
+  font-size: 2rem;
+}
