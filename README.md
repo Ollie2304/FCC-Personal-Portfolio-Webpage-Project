@@ -1,4 +1,4 @@
-# FFCC-Personal-Portfolio-Webpage-Project
+# FCC-Personal-Portfolio-Webpage-Project
 
 Project for [freeCodeCamp's](https://www.freecodecamp.org/) Responsive Web Design course.
 
